@@ -93,3 +93,52 @@ Here are the commands needed for commiting changes to GitHub:
 - git add <file_name> (add what you want to commit)
 - git commit -m <message>
 - git push origin main (push to the online repository)
+  
+#### Additional Resources  
+ 
+Ordered such that the most general is at the top and the most specific is at the bottom:
+
+Neutrino Basics: https://drive.google.com/file/d/1j55mxTXloLen2_NuaHiWC8TV-oe4u6iK/view?usp=sharing
+More detailed and theory-driven slides: 
+https://drive.google.com/file/d/1GD5Wi_1EVP27f9XT26_CQZL068Z1rSAI/view?usp=sharing
+https://drive.google.com/file/d/1wtZzSDyWpq0a_9ZNKTPUoKnkWDvx7kX0/view?usp=sharing
+
+Neutrino Detectors: https://drive.google.com/file/d/1siqUH9J7lvtX7sC6bekqUbGhhpGFGJ28/view?usp=sharing
+	More detailed, but among my favorite courses on neutrino detectors! 
+https://drive.google.com/file/d/1ycO1ZNDnCct1k5QSCy-DXHKFJD9ZHWFm/view?usp=sharing
+https://drive.google.com/file/d/1Dn4b7rDFSMar_gFlBmNRnn8gx_yOO53e/view?usp=sharing
+
+LArTPCs, these are the types of detectors we’ll be working with over the summer
+https://drive.google.com/file/d/1CkBq5Jin8UUr0RMf9Kn8Su2jr2F1KYAJ/view?usp=sharing
+https://drive.google.com/file/d/1-7zrzMpR_ngg1DR171IAUD1akkSOaqSD/view?usp=sharing
+An excellent short talk on LArTPC basics: https://youtu.be/R816vfA5iX0?t=2288
+It is from the 2016 Physics Slam which is more oriented to the public
+
+MicroBooNE
+How the detector works and its context:
+https://drive.google.com/file/d/1vSTD1wfGmADuadIXZowSEVKzt7GxfgVR/view?usp=sharing 
+
+
+Low energy signals, the types of physics we’ll be exploring this summer
+The basics of low energy physics: https://drive.google.com/file/d/1nJWX-wKbjBKeTpxBD0DHiG09IQSIREAY/view?usp=sharing
+How we can reconstruct low energy signals:
+https://drive.google.com/file/d/1pY8ZJ1rh6t1Et6smVBL5qaVEgwHLI2lY/view?usp=sharing
+The specific signal we’ll be looking for (the radon-222 decay chain!): 
+https://drive.google.com/file/d/1Fh0xGXpSwFmsPQtU8zmbJLn1tXTsgJby/view?usp=sharing
+
+LArSoft Tutorials:
+Video of the tutorial (recommended) : https://drive.google.com/open?id=1JIKKeloJZmjke0EowuRFAi5g7gwVp9rN
+Slide from this tutorial	: https://drive.google.com/open?id=1EG49B75JubrISDmC2LCnPaNwnXgCpLtc
+LArSoft website tutorials (less recommended): https://larsoft.org/training/
+
+Other reading if you’re interested! 
+
+Deep Underground Neutrino Experiment, the next generation, massive LArTPC detector
+Public lecture from the spokesperson: https://vms.fnal.gov/asset/detail?recid=1959138 
+Website to start working on getting computing setup: 
+https://docs.google.com/document/d/1wCsgTFpcFO8OvPGGqqFmMtqp1sflDU9OmqPMr6f2Sz0/edit?usp=sharing
+
+
+	
+
+
