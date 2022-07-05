@@ -53,6 +53,8 @@ Feel free to contact the [Fermilab service desk](https://fermi.servicenowservice
 
 #### Getting Your Computer ssh ready (For Windows)
 
+Url Link: https://uscms.org/uscms_at_work/computing/getstarted/uaf.shtml#windowsKerberosPuTTY
+
 To connect to the LPC cluster for the first time with PuTTY:
 Double click on the PuTTY icon in the directory where you unzipped the zip file.
 In the PuTTY configuration window:
